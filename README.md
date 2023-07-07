@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @KasmyrA
-- 👀 I’m interested in development, computer science, mathematic and VR.
-- 🌱 I’m currently learning Python, JavaScript and C
-- 💞️ I’m looking to collaborate on studing.
+- 👀 I’m interested in development, computer science mathematic and physics.
+- 🌱 I’m currently learning Python and C++
 - 📫 onekasmyr@gmail.com
 
 <!---
