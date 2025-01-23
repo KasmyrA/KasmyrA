@@ -1,4 +1,4 @@
-# 👋 Hi, I'm @KasmyrA
+# 👋 Hi, I'm Kacper
 
 ## 🎓 About Me
 I'm passionate about programming and science, particularly interested in:
