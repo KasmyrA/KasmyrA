@@ -1,7 +1,7 @@
 # Kacper
 
 ## About Me
-I'm passionate about programming and science. I have started 
+I'm passionate about programming and science. 
 
   
 [![My Skills](https://skillicons.dev/icons?i=azure,powershell,bash,ubuntu,kali,windows,py,cpp,django,dotnet,git,html,css,js,typescript,react,java,latex,mysql,neovim,obsidian,)](https://skillicons.dev)
