@@ -1,17 +1,14 @@
-# 👋 Hi, I'm Kacper
+# Kacper
 
-## 🎓 About Me
-I'm passionate about programming and science, particularly interested in:
-* 💻 Software Development and New Technologies
-* 🔬 Computer Science and its Practical Applications
-* ➗ Mathematics and its Connection with Programming
+## About Me
+I'm passionate about programming and science. I have started 
+
   
-## 🛠️ Tech Stack
-* Python
-* C#
-* java
-* C++
-* React
+[![My Skills](https://skillicons.dev/icons?i=azure,powershell,bash,ubuntu,kali,windows,py,cpp,django,dotnet,git,html,css,js,typescript,react,nextjs,java,latex,mysql,neovim,obsidian,)](https://skillicons.dev)
+
+## in progress...
+[![My Skills](https://skillicons.dev/icons?i=cs)](https://skillicons.dev)
+
 
 ## 📫 How to Reach Me
 * https://www.linkedin.com/in/kacper-smyrak-596761241/
