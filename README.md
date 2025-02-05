@@ -4,7 +4,7 @@
 I'm passionate about programming and science. 
 
 ## My current skills
-[![My Skills](https://skillicons.dev/icons?i=azure,powershell,bash,ubuntu,kali,windows,py,cpp,django,dotnet,git,html,css,js,typescript,react,java,latex,mysql,neovim,obsidian,)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=azure,powershell,bash,ubuntu,kali,windows,py,cpp,java,dotnet,git,html,css,js,typescript,react,django,mysql,latex,neovim,obsidian,)](https://skillicons.dev)
 
 ## in progress...
 [![My Skills](https://skillicons.dev/icons?i=cs)](https://skillicons.dev)
