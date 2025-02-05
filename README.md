@@ -3,7 +3,7 @@
 ## About Me
 I'm passionate about programming and science. 
 
-  
+## My current skills
 [![My Skills](https://skillicons.dev/icons?i=azure,powershell,bash,ubuntu,kali,windows,py,cpp,django,dotnet,git,html,css,js,typescript,react,java,latex,mysql,neovim,obsidian,)](https://skillicons.dev)
 
 ## in progress...
