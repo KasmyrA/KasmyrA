@@ -74,4 +74,7 @@ Cybersecurity enthusiast and third-year Computer Science student specializing in
 
 ---
 
+![Snake animation](https://github.com/KasmyrA/KasmyrA/blob/output/github-snake-dark-purple.gif)
+
+
 *I'm currently seeking internship opportunities in network security and infrastructure. Open to collaborate on cybersecurity and open-source projects!*
