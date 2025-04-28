@@ -1,6 +1,6 @@
 # Kacper / KasmyrA
 
-## 👨‍💻 About Me
+## About Me
 Cybersecurity enthusiast and third-year Computer Science student specializing in network security. I'm passionate about building secure systems and exploring emerging technologies across the computing spectrum.
 
 - 🔒 Focused on network security and infrastructure hardening
@@ -8,7 +8,7 @@ Cybersecurity enthusiast and third-year Computer Science student specializing in
 - 🐍 Volunteer for [PyCon PL 2025](https://pl.pycon.org/2025/)
 - 🧪 Experience ranging from virtualization platforms (Proxmox) to quantum computing frameworks (Qiskit)
 
-## 🛠️ Technical Skills
+## Technical Skills
 
 ### Languages
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
@@ -41,7 +41,7 @@ Cybersecurity enthusiast and third-year Computer Science student specializing in
 ![Neovim](https://img.shields.io/badge/-Neovim-57A143?style=flat-square&logo=neovim&logoColor=white)
 ![Obsidian](https://img.shields.io/badge/-Obsidian-483699?style=flat-square&logo=obsidian&logoColor=white)
 
-## 🚀 Projects
+## Projects
 
 ### TaskHero
 *A gamified time management application built with React and Django*
@@ -57,7 +57,7 @@ Cybersecurity enthusiast and third-year Computer Science student specializing in
 
 ### Sierpinski Figures Visualization
 *Visualization tool for Sierpinski triangles and related fractals*
-- Generated and rendered various fractal patterns
+- Generated and rendered fractal patterns in high detail
 - Implemented interactive controls for exploring fractal properties
 - Created graphical representations with customizable parameters
 - Built with Python and visualization libraries
