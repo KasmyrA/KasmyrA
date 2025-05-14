@@ -78,3 +78,4 @@ Cybersecurity enthusiast and third-year Computer Science student specializing in
 
 
 *I'm currently seeking internship opportunities in network security and infrastructure. Open to collaborate on cybersecurity and open-source projects!*
+
