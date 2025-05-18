@@ -11,7 +11,7 @@ jobs:
     steps:
       - uses: Platane/snk@v3
         with:
-          github_user_name: KasmyrA
+          github_user_name: ${{ github.repository_owner }}
           outputs: |
             dist/github-snake-dark.svg?palette=github-dark
             dist/github-snake-dark-purple.gif?palette=github-dark&color_snake=#10ad28&color_dots=#e4ebc3,#4c1d95,#6d28d9,#7c3aed,#c084fc
