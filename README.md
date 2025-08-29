@@ -3,10 +3,9 @@
 ## About Me
 Cybersecurity enthusiast and third-year Computer Science student specializing in network security. I'm passionate about building secure systems and exploring emerging technologies across the computing spectrum.
 
-- 🔒 Focused on network security and infrastructure hardening
-- 🌐 Active contributor to the Rust community ([RustMeet](https://rustmeet.eu/))
-- 🐍 Volunteer for [PyCon PL 2025](https://pl.pycon.org/2025/)
-- 🧪 Experience ranging from virtualization platforms (Proxmox) to quantum computing frameworks (Qiskit)
+- Active contributor to the Rust community ([RustMeet](https://rustmeet.eu/))
+- Volunteer for [PyCon PL 2025](https://pl.pycon.org/2025/)
+- Experience ranging from virtualization platforms (Proxmox) to quantum computing frameworks (Qiskit)
 
 ## Technical Skills
 
