@@ -62,9 +62,6 @@ Cybersecurity enthusiast and third-year Computer Science student specializing in
 - Built with Python and visualization libraries
 - [View Project →](https://github.com/KasmyrA/Sierpinski-figures)
 
-## 📈 GitHub Stats
-
-![Top Languages](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=KasmyrA&theme=nord_dark)
 
 ## 📫 How to Reach Me
 
