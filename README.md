@@ -64,5 +64,3 @@ Cybersecurity enthusiast and third-year Computer Science student specializing in
 [![Email](https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:1kacpersmyrak@gmail.com)
 
 ---
-
-![Snake animation](https://github.com/KasmyrA/KasmyrA/blob/output/github-snake-dark-purple.gif)
